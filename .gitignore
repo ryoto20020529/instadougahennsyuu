@@ -1,0 +1,7 @@
+__pycache__/
+tmp_audio/
+prev_*.png
+dog_test.png
+dog_moods.png
+*.log
+log_*.txt
